@@ -16,7 +16,7 @@
 
 [Preview](#preview)
 
-[Sobre o Pekedex](#sobre-o-pokedex)
+[Sobre o Pokedex](#sobre-o-pokedex)
 
 [Tecnologias](#tecnologias)
 
@@ -26,7 +26,7 @@
 
 ## Preview
 
-<a title="Pokedex" href="https://marlondlacerda.github.io/Pokedex/" >Clique aqui </a> para ter acesso a um  preview do App. <br>
+<a title="Pokedex" href="https://pedrohassedev.github.io/Pokedex-1.0/" >Clique aqui </a> para ter acesso a um  preview do App. <br>
 
 ## Sobre o Pokedex
 
