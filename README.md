@@ -1,8 +1,8 @@
 <p>
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/marlondlacerda/pokedex?color=6E40C9&style=flat-square">
-  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/marlondlacerda/pokedex?color=6E40C9&style=flat-square">
-  <a href="https://github.com/marlondlacerda/pokedex/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/marlondlacerda/pokedex?color=6E40C9&style=flat-square">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/PedroHasseDev/Pokedex-1.0?color=6E40C9&style=flat-square">
+  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/PedroHasseDev/Pokedex-1.0?color=6E40C9&style=flat-square">
+  <a href="https://github.com/PedroHasseDev/Pokedex-1.0/commits/main">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/PedroHasseDev/Pokedex-1.0?color=6E40C9&style=flat-square">
   </a>
 </p>
 
@@ -54,7 +54,7 @@ Tecnologias e ferramentas utilizadas no desenvolvimento do projeto:
 
 ```bash
 # Abra um terminal e copie este repositório com o comando
-git clone git@github.com:marlondlacerda/Pokedex.git
+git clone git@github.com:PedroHasseDev/Pokedex-1.0.git
 # ou use a opção de download.
 
 # Entre na pasta web com 
