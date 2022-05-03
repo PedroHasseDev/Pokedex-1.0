@@ -1,8 +1,8 @@
 <p>
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/PedroHasseDev/Pokedex-1.0?color=6E40C9&style=flat-square">
-  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/PedroHasseDev/Pokedex-1.0?color=6E40C9&style=flat-square">
-  <a href="https://github.com/PedroHasseDev/Pokedex-1.0/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/PedroHasseDev/Pokedex-1.0?color=6E40C9&style=flat-square">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/pedrohassen/Pokedex-1.0?color=6E40C9&style=flat-square">
+  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/pedrohassen/Pokedex-1.0?color=6E40C9&style=flat-square">
+  <a href="https://github.com/pedrohassen/Pokedex-1.0/commits/main">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/pedrohassen/Pokedex-1.0?color=6E40C9&style=flat-square">
   </a>
 </p>
 
@@ -26,11 +26,11 @@
 
 ## Preview
 
-<a title="Pokedex" href="https://pedrohassedev.github.io/Pokedex-1.0/" >Clique aqui </a> para ter acesso a um  preview do App. <br>
+<a title="Pokedex" href="https://pedrohassen.github.io/Pokedex-1.0/" >Clique aqui </a> para ter acesso a um  preview do App. <br>
 
 ## Sobre o Pokedex
 
-O Pokedex é um dos projetos desenvolvido em grupo junto com o [Wan](https://github.com/wanlucas), [Pedro H. Niemczewski](https://github.com/PedroHasseDev), [Rafael França](https://github.com/rafaelftourinho), [Luis Arthur](https://github.com/luisArthurRodriguesDaSilva) & [Marlon Lacerda](https://github.com/marlondlacerda). Foram 10 dias de projeto, que envolveu reuniões diárias, utilização de metodologias ágeis e também desenvolvimento em pair programming.
+O Pokedex é um dos projetos desenvolvido em grupo junto com o [Wan](https://github.com/wanlucas), [Pedro H. Niemczewski](https://github.com/pedrohassen), [Rafael França](https://github.com/rafaelftourinho), [Luis Arthur](https://github.com/luisArthurRodriguesDaSilva) & [Marlon Lacerda](https://github.com/marlondlacerda). Foram 10 dias de projeto, que envolveu reuniões diárias, utilização de metodologias ágeis e também desenvolvimento em pair programming.
 
 Ele é um app para exibir e poder selecionar uma lista contendo os 150 primeiros pokemons.
 Os dados são cosumidos de uma api própria desenvolvida por nós.
@@ -85,7 +85,7 @@ Thanks goes to these wonderful people 🥂
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/PedroHasseDev"><img src="https://avatars.githubusercontent.com/u/94567390?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Pedro H. Niemczewski</b></sub></a><br /><a href="#ideas-PedroHasseDev" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/marlondlacerda/Pokedex/commits?author=PedroHasseDev" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/pedrohassen"><img src="https://avatars.githubusercontent.com/u/94567390?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Pedro H. Niemczewski</b></sub></a><br /><a href="#ideas-PedroHasseDev" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/marlondlacerda/Pokedex/commits?author=pedrohassen" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/marlondlacerda"><img src="https://avatars.githubusercontent.com/u/83839044?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Marlon Lacerda</b></sub></a><br /><a href="https://github.com/marlondlacerda/Pokedex/pulls?q=is%3Apr+reviewed-by%3Amarlondlacerda" title="Reviewed Pull Requests">👀</a> <a href="#ideas-marlondlacerda" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/marlondlacerda/Pokedex/commits?author=marlondlacerda" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/rafaelftourinho"><img src="https://avatars.githubusercontent.com/u/97207322?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rafael França</b></sub></a><br /><a href="https://github.com/marlondlacerda/Pokedex/commits?author=rafaelftourinho" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/wanlucas"><img src="https://avatars.githubusercontent.com/u/76530841?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Wan Lucas</b></sub></a><br /><a href="#ideas-wanlucas" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/marlondlacerda/Pokedex/commits?author=wanlucas" title="Code">💻</a> <a href="#content-wanlucas" title="Content">🖋</a> <a href="#design-wanlucas" title="Design">🎨</a></td>
